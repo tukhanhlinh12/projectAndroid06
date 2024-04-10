@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "259493368904",
+    "firebase_url": "https://android-shop-796dd-default-rtdb.firebaseio.com",
+    "project_id": "android-shop-796dd",
+    "storage_bucket": "android-shop-796dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259493368904:android:5ca103f2d3382a8583f47d",
+        "android_client_info": {
+          "package_name": "com.example.androidshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_Tc81vXGnKD1794qatUmWYvGEJrm9Gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
